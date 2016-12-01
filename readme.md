@@ -1,37 +1,37 @@
 ## Theremin arduino
 
-![Photo montage]("Montage terminé")
+![theremin arduino](https://cloud.githubusercontent.com/assets/1151212/20793162/fa3db516-b7c5-11e6-9552-122c4ab9747a.png)
 
-Ce montage permet d'imiter grossièremeent le fonctionnement d'un [theremin][]. 
+Ce montage permet d'imiter grossiÃ¨remeent le fonctionnement d'un [theremin][https://en.wikipedia.org/wiki/Theremin]. 
 
-Il est constitué de 2 capteurs de lumière ambiante, permettant, selon la quantité de lumière reçue :
+Il est constituÃ© de 2 capteurs de lumiÃ¨re ambiante, permettant, selon la quantitÃ© de lumiÃ¨re reÃ§ue :
 * de couper le son
-* de changer la fréquence (hauteur) du son
+* de changer la frÃ©quence (hauteur) du son
 
-L'utilisateur peut moduler la lumière en masquant les capteurs de lumières avec ses mains.
+L'utilisateur peut moduler la lumiÃ¨re en masquant les capteurs de lumiÃ¨res avec ses mains.
 
 ## Atelier 
 
-Ce projet est conçu pour être monté et pris en main par des enfants à partir de 10 ans dans le cadre d'un atelier.
+Ce projet est conÃ§u pour Ãªtre montÃ© et pris en main par des enfants Ã  partir de 10 ans dans le cadre d'un atelier.
 
-L'atelier se déroule en 2 phases :
+L'atelier se dÃ©roule en 2 phases :
 
-1. Soudage de la carte de contrôle et des composants 
-2. Présentation et modification du logiciel pour en  personnaliser le fonctionnement.
+1. Soudage de la carte de contrÃ´le et des composants 
+2. PrÃ©sentation et modification du logiciel pour en  personnaliser le fonctionnement.
 
-## Code 
+##Â Code 
 
 Dans /src :
 
-* *theremin* : projet Arduino permettant d'emettre des sons selon la lumière captée
-* *TESTHW* : projet Arduino qui permet de tester le montage électronique
+* *theremin* : projet Arduino permettant d'emettre des sons selon la lumiÃ¨re captÃ©e
+* *testHW* : projet Arduino qui permet de tester le montage Ã©lectronique
 
-## Licence
+##Â Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Cette Å“uvre est mise Ã  disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
 
-## Crédits
+##Â CrÃ©dits
 
-Ont participé au développement du projet : Gérald Huguenin, David Grunenwald
+Ont participÃ© au dÃ©veloppement du projet : GÃ©rald Huguenin, David Grunenwald
 
-Avec les moyens mis à disposition par la [HE-Arc Ingénierie](http://www.he-arc.ch/ingenierie)
+Avec les moyens mis Ã  disposition par la [HE-Arc IngÃ©nierie](http://www.he-arc.ch/ingenierie)
