@@ -2,7 +2,7 @@
 
 ![theremin arduino](https://cloud.githubusercontent.com/assets/1151212/20793162/fa3db516-b7c5-11e6-9552-122c4ab9747a.png)
 
-Ce montage permet d'imiter grossièremeent le fonctionnement d'un [theremin][https://en.wikipedia.org/wiki/Theremin]. 
+Ce montage permet d'imiter grossièremeent le fonctionnement d'un [theremin](https://en.wikipedia.org/wiki/Theremin). 
 
 Il est constitué de 2 capteurs de lumière ambiante, permettant, selon la quantité de lumière reçue :
 * de couper le son
