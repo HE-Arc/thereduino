@@ -47,6 +47,8 @@ void setup() {
 
 // Code exécuté le plus souvent possible
 void loop() {
+  onOff = (minLight + maxLight) / 2;
+ 
   // Lecture des phototransistors
   int lectureNote = analogRead(A7); // lecture de la hauteur de la note
   int lectureOnOff = analogRead(A0); // lecture de la commande du volume (ON OFF)
