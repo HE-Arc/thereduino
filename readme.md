@@ -26,6 +26,10 @@ Dans /src :
 * *theremin* : projet Arduino permettant d'emettre des sons selon la lumière captée
 * *testHW* : projet Arduino qui permet de tester le montage électronique
 
+## Drivers
+
+Lors de l'utilisation de cartes "dccunino nano" au lieu des cartes "arduino nano", le dossier "drivers" contient les fichiers nécessaires à leur installation.
+
 ## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
